@@ -5,6 +5,8 @@
  */
 package imad.filesej_imad;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author MSI
@@ -12,9 +14,13 @@ package imad.filesej_imad;
 public class Prueba {
 
     public static void main(String[] args) {
-        App a1 = new App();
-        App a2 = new App();
-        System.out.println(a2.toString());
+        ArrayList <App> listaApps = new ArrayList<>();
+        for (int i = 0; i < 50; i++) {
+            listaApps.add(new App());
 
+        }
+        for (App listaApp : listaApps) {
+            System.out.println(listaApp);
+        }
     }
 }

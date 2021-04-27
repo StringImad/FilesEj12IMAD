@@ -11,6 +11,7 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.Month;
 import java.time.format.DateTimeFormatter;
+import java.util.Comparator;
 import java.util.Random;
 import java.util.stream.DoubleStream;
 
@@ -18,7 +19,7 @@ import java.util.stream.DoubleStream;
  *
  * @author MSI
  */
-public class App {
+public class App{
 
     private int codigo;
     private String nombre;
@@ -59,8 +60,12 @@ public class App {
 
     private static String generarDescripciones() {
         int aleatorio = random.nextInt(10);
-        String contenidoDescripcion[] = {"Descripcion de prueba 1", "prueba descripcion 2", "prueba descripcion 3", "prueba descripcion 4", "vprueba descripcion 5",
-            "prueba descripcion 6", "Descripcion de prueba 7", "Descripcion de prueba 8", "Descripcion de prueba 9", "Descripcion de prueba 10"};
+        String contenidoDescripcion[] = {"Descripcion de prueba 1",
+            "prueba descripcion 2",
+            "prueba descripcion 3", "prueba descripcion 4",
+            "vprueba descripcion 5",
+            "prueba descripcion 6", "Descripcion de prueba 7", "Descripcion de prueba 8",
+            "Descripcion de prueba 9", "Descripcion de prueba 10"};
 
         return contenidoDescripcion[aleatorio];
     }
@@ -134,7 +139,7 @@ public class App {
 
     @Override
     public String toString() {
-        return "App{" + "codigo=" + codigo + ", nombre=" + nombre + ", descripcion=" + descripcion + ", Kb=" + Kb + ", fecha=" + fecha + '}';
+        return codigo + "\t" + nombre + "\t"  + descripcion + "\t" + Kb + "\t"  + fecha;
     }
     
     
