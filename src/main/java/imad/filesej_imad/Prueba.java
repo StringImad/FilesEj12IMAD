@@ -22,5 +22,7 @@ public class Prueba {
         for (App listaApp : listaApps) {
             System.out.println(listaApp);
         }
+        ServicioFicheroTSV prueba = new ServicioFicheroTSV();
+        prueba.generarFichero(listaApps, "fichero.tsv");
     }
 }

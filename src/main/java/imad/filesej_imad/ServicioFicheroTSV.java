@@ -20,7 +20,7 @@ import java.util.Scanner;
  */
 public class ServicioFicheroTSV {
 
-    public static void generarFichero(ArrayList<App> apli, String ruta) {
+    public  void generarFichero(ArrayList<App> apli, String ruta) {
         // ArrayList<App> listaApps = new ArrayList<App>();
 
         try {
