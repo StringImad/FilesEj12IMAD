@@ -19,18 +19,18 @@ import java.util.stream.DoubleStream;
  *
  * @author MSI
  */
-public class App{
+public class App {
 
     private int codigo;
     private String nombre;
     private String descripcion;
-    private DoubleStream Kb;
+    private double Kb;
     private LocalDate fecha;
     private static int contadorInstancias;
     private static Random random = new Random();
 
     public App() {
-      char aleatorio = (char) (65 + random.nextInt(26));
+        char aleatorio = (char) (65 + random.nextInt(26));
         this.codigo = getContadorInstancias();
         this.nombre = "App" + getContadorInstancias() + aleatorio;
         this.descripcion = generarDescripciones();
@@ -39,7 +39,7 @@ public class App{
         contadorInstancias++;
     }
 
-    public App(int codigo, String nombre, String descripcion, DoubleStream Kb, LocalDate fecha) {
+    public App(int codigo, String nombre, String descripcion, double Kb, LocalDate fecha) {
         char aleatorio = (char) (65 + random.nextInt(26));
         this.codigo = getContadorInstancias();
         this.nombre = "App" + getContadorInstancias() + aleatorio;
@@ -70,11 +70,11 @@ public class App{
         return contenidoDescripcion[aleatorio];
     }
 
-    private static DoubleStream generarTamnyoApp() {
+    private static double generarTamnyoApp() {
         double minimo = 100;
         double maximo = 1024;
         //  List<Integer> doubles = random.ints(0, 50).limit(20).boxed().collect(Collectors.toList());
-        DoubleStream stream = random.doubles(1, minimo, maximo);
+        double stream = random.doubles(1, minimo, maximo).sum();
 
         return stream;
     }
@@ -92,7 +92,7 @@ public class App{
         int aleatorio = 0;
         aleatorio = random.nextInt(30) + 1;
         fechaAleatoria = LocalDate.of(random.nextInt(10) + 2020, random.nextInt(12) + 1, random.nextInt(30) + 1);
-        DateTimeFormatter formatoFecha = DateTimeFormatter. ofPattern("dd-MM-yyyy");
+        DateTimeFormatter formatoFecha = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         formatoFecha.format(fechaAleatoria);
         return fechaAleatoria;
     }
@@ -121,11 +121,11 @@ public class App{
         this.descripcion = descripcion;
     }
 
-    public DoubleStream getKb() {
+    public double getKb() {
         return Kb;
     }
 
-    public void setKb(DoubleStream Kb) {
+    public void setKb(double Kb) {
         this.Kb = Kb;
     }
 
@@ -139,8 +139,7 @@ public class App{
 
     @Override
     public String toString() {
-        return codigo + "\t" + nombre + "\t"  + descripcion + "\t" + Kb + "\t"  + fecha;
+        return codigo + "\t" + nombre + "\t" + descripcion + "\t" + Kb + "\t" + fecha;
     }
-    
-    
+
 }
