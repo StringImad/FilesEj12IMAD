@@ -96,6 +96,13 @@ public class App {
         formatoFecha.format(fechaAleatoria);
         return fechaAleatoria;
     }
+    
+//    private static App generarObjetoAleatorio(){
+//        App appCreada = new App(contadorInstancias,this.nombre, descripcion, contadorInstancias, LocalDate.EPOCH);
+//        
+//       
+//        return appCreada;
+//    }
 
     public int getCodigo() {
         return codigo;

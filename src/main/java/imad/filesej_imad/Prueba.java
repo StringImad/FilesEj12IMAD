@@ -5,7 +5,9 @@
  */
 package imad.filesej_imad;
 
+import java.io.IOException;
 import java.util.ArrayList;
+import javax.xml.bind.JAXBException;
 
 /**
  *
@@ -13,7 +15,7 @@ import java.util.ArrayList;
  */
 public class Prueba {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException, JAXBException {
         ArrayList <App> listaApps = new ArrayList<>();
         for (int i = 0; i < 50; i++) {
             listaApps.add(new App());
@@ -23,6 +25,14 @@ public class Prueba {
             System.out.println(listaApp);
         }
         ServicioFicheroTSV prueba = new ServicioFicheroTSV();
-        prueba.generarFichero(listaApps, "fichero.tsv");
+        prueba.generarFichero(listaApps, "ficheroTSV.tsv");
+        
+         ServicioFicheroJSON prueba2 = new ServicioFicheroJSON();
+        prueba2.generarFichero(listaApps, "ficheroJSON.JSON");
+        
+             ServicioFicheroXML prueba3 = new ServicioFicheroXML();
+        prueba3.generarFichero(listaApps, "ficheroXML.xml");
+        
+        
     }
 }
