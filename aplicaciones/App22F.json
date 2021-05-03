@@ -1,0 +1,20 @@
+{
+  "codigo" : 22,
+  "nombre" : "App22F",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JUNE",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 167,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 6,
+    "dayOfMonth" : 16
+  },
+  "kb" : 407.27351436550526
+}

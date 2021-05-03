@@ -1,0 +1,20 @@
+{
+  "codigo" : 7,
+  "nombre" : "App7K",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 32,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 1
+  },
+  "kb" : 926.9012010070378
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 49,
+  "nombre" : "App49R",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 151,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 808.6855501289438
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 4,
+  "nombre" : "App4U",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 26,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 146,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false
+  },
+  "kb" : 926.1116656142843
+}

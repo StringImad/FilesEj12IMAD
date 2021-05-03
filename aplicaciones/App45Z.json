@@ -1,0 +1,20 @@
+{
+  "codigo" : 45,
+  "nombre" : "App45Z",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 305,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true
+  },
+  "kb" : 243.01514685826612
+}

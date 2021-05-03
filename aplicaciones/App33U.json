@@ -1,0 +1,20 @@
+{
+  "codigo" : 33,
+  "nombre" : "App33U",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 360,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 25
+  },
+  "kb" : 849.9114437224549
+}

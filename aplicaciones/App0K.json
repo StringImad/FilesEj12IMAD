@@ -1,0 +1,20 @@
+{
+  "codigo" : 0,
+  "nombre" : "App0K",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 326,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 22
+  },
+  "kb" : 733.9226648994743
+}

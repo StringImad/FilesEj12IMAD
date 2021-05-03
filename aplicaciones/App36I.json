@@ -1,0 +1,20 @@
+{
+  "codigo" : 36,
+  "nombre" : "App36I",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 68,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 9
+  },
+  "kb" : 812.6584780349662
+}

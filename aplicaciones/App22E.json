@@ -1,0 +1,20 @@
+{
+  "codigo" : 22,
+  "nombre" : "App22E",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 15,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 258,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false
+  },
+  "kb" : 154.69980823942146
+}

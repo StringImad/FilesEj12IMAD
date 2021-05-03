@@ -1,0 +1,20 @@
+{
+  "codigo" : 30,
+  "nombre" : "App30F",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 187,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 6
+  },
+  "kb" : 798.5682071752375
+}

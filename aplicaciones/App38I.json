@@ -1,0 +1,20 @@
+{
+  "codigo" : 38,
+  "nombre" : "App38I",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 2,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 275,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false
+  },
+  "kb" : 278.3259833641623
+}

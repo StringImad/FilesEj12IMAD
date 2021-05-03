@@ -1,0 +1,20 @@
+{
+  "codigo" : 1,
+  "nombre" : "App1K",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 243,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false
+  },
+  "kb" : 912.3623878841939
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 42,
+  "nombre" : "App42K",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 140,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false
+  },
+  "kb" : 751.171719726281
+}

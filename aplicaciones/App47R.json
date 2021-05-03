@@ -1,0 +1,20 @@
+{
+  "codigo" : 47,
+  "nombre" : "App47R",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 58,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true
+  },
+  "kb" : 893.188507112993
+}

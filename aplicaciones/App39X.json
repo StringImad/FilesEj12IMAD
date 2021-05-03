@@ -1,0 +1,20 @@
+{
+  "codigo" : 39,
+  "nombre" : "App39X",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 264,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 21
+  },
+  "kb" : 966.1973580053835
+}

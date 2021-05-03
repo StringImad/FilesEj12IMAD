@@ -10,6 +10,8 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -17,13 +19,33 @@ import java.util.ArrayList;
  */
 public class ServicioFicheroJSON {
 
-    public void generarFichero(ArrayList<App> apli, String ruta) throws IOException {
+    public static void generarFichero(App apli, String ruta) throws IOException {
+        ObjectMapper mapeador = new ObjectMapper();
+
+        mapeador.configure(SerializationFeature.INDENT_OUTPUT, true);
+
+        try {
+
+            mapeador.writeValue(new File(ruta), apli);
+            System.out.println("El fichero " + ruta + " se ha creado correctamente");
+        } catch (IOException ex) {
+            System.out.println("No se ha creado el fichero");
+        }
+    }
+    //HACE LO MMISMO QUE EL METODO DE ARRIBA PERO CON UN ARRAYLIST
+    public static void generarFichero(ArrayList<App> apli, String ruta) throws IOException {
         ObjectMapper mapeador = new ObjectMapper();
 
         mapeador.configure(SerializationFeature.INDENT_OUTPUT, true);
 
         mapeador.writeValue(new File(ruta), apli);
 
-        System.out.println("El fichero " + ruta + " se ha creado correctamente");
+        try {
+
+            mapeador.writeValue(new File(ruta), apli);
+            System.out.println("El fichero " + ruta + " se ha creado correctamente");
+        } catch (IOException ex) {
+            System.out.println("No se ha creado el fichero");
+        }
     }
 }

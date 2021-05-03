@@ -1,0 +1,20 @@
+{
+  "codigo" : 6,
+  "nombre" : "App6J",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 24,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 205,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 253.1832553601826
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 41,
+  "nombre" : "App41P",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "JANUARY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 19,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 1,
+    "dayOfMonth" : 19
+  },
+  "kb" : 644.7809942064463
+}

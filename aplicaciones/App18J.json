@@ -1,0 +1,20 @@
+{
+  "codigo" : 18,
+  "nombre" : "App18J",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 10,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 69,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false
+  },
+  "kb" : 954.8775845472607
+}

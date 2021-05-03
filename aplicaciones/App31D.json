@@ -1,0 +1,20 @@
+{
+  "codigo" : 31,
+  "nombre" : "App31D",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 9,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 129,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false
+  },
+  "kb" : 440.72912898424164
+}

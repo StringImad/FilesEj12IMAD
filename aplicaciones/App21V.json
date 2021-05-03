@@ -1,0 +1,20 @@
+{
+  "codigo" : 21,
+  "nombre" : "App21V",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 19,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 109,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false
+  },
+  "kb" : 468.08615144199405
+}

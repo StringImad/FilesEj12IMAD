@@ -1,0 +1,20 @@
+{
+  "codigo" : 34,
+  "nombre" : "App34O",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "AUGUST",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 230,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 18
+  },
+  "kb" : 486.37309944110893
+}

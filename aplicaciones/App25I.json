@@ -1,0 +1,20 @@
+{
+  "codigo" : 25,
+  "nombre" : "App25I",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 71,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false
+  },
+  "kb" : 1012.3772052706552
+}

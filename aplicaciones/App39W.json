@@ -1,0 +1,20 @@
+{
+  "codigo" : 39,
+  "nombre" : "App39W",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 2,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 306,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false
+  },
+  "kb" : 289.28141159855045
+}

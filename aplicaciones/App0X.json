@@ -1,0 +1,20 @@
+{
+  "codigo" : 0,
+  "nombre" : "App0X",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 16,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 289,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 634.0187810060585
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 44,
+  "nombre" : "App44A",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 263,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 20
+  },
+  "kb" : 892.9910478441218
+}

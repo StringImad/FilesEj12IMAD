@@ -1,0 +1,20 @@
+{
+  "codigo" : 31,
+  "nombre" : "App31X",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 261,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 18
+  },
+  "kb" : 314.3251548236538
+}

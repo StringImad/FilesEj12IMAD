@@ -1,0 +1,20 @@
+{
+  "codigo" : 11,
+  "nombre" : "App11I",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "JUNE",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 177,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "monthValue" : 6,
+    "dayOfMonth" : 25
+  },
+  "kb" : 679.9277483747823
+}

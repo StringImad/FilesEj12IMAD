@@ -1,0 +1,20 @@
+{
+  "codigo" : 1,
+  "nombre" : "App1M",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 352,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 12,
+    "dayOfMonth" : 18
+  },
+  "kb" : 192.05779575660773
+}

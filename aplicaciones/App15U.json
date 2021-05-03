@@ -1,0 +1,20 @@
+{
+  "codigo" : 15,
+  "nombre" : "App15U",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 68,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 9
+  },
+  "kb" : 294.66620956246726
+}

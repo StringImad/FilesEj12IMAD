@@ -1,0 +1,20 @@
+{
+  "codigo" : 23,
+  "nombre" : "App23F",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 293,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 20
+  },
+  "kb" : 595.133141991399
+}

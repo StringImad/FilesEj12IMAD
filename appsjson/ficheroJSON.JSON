@@ -1,0 +1,951 @@
+[ {
+  "codigo" : 0,
+  "nombre" : "App0T",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 234,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "monthValue" : 8,
+    "dayOfMonth" : 21
+  },
+  "kb" : 124.90667198478874
+}, {
+  "codigo" : 1,
+  "nombre" : "App1M",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 352,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 12,
+    "dayOfMonth" : 18
+  },
+  "kb" : 192.05779575660773
+}, {
+  "codigo" : 2,
+  "nombre" : "App2D",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JUNE",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 152,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 6,
+    "dayOfMonth" : 1
+  },
+  "kb" : 656.557953907008
+}, {
+  "codigo" : 3,
+  "nombre" : "App3A",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 205,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 24
+  },
+  "kb" : 974.5212189667349
+}, {
+  "codigo" : 4,
+  "nombre" : "App4D",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 309,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 5
+  },
+  "kb" : 765.9627275964677
+}, {
+  "codigo" : 5,
+  "nombre" : "App5A",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 217,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 5
+  },
+  "kb" : 251.20479339280757
+}, {
+  "codigo" : 6,
+  "nombre" : "App6P",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 362,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 27
+  },
+  "kb" : 971.0582552405838
+}, {
+  "codigo" : 7,
+  "nombre" : "App7J",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JUNE",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 169,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 6,
+    "dayOfMonth" : 18
+  },
+  "kb" : 295.5263744658438
+}, {
+  "codigo" : 8,
+  "nombre" : "App8G",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 23,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 1,
+    "dayOfMonth" : 23
+  },
+  "kb" : 624.7845421046825
+}, {
+  "codigo" : 9,
+  "nombre" : "App9N",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 212,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 31
+  },
+  "kb" : 751.9569375177267
+}, {
+  "codigo" : 10,
+  "nombre" : "App10A",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 59,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 28
+  },
+  "kb" : 792.3905888010806
+}, {
+  "codigo" : 11,
+  "nombre" : "App11V",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2021,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 79,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 20
+  },
+  "kb" : 443.83907165884546
+}, {
+  "codigo" : 12,
+  "nombre" : "App12C",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 242,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 30
+  },
+  "kb" : 781.2817744643309
+}, {
+  "codigo" : 13,
+  "nombre" : "App13B",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 54,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 23
+  },
+  "kb" : 382.389995768738
+}, {
+  "codigo" : 14,
+  "nombre" : "App14D",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 242,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 30
+  },
+  "kb" : 374.4723484161138
+}, {
+  "codigo" : 15,
+  "nombre" : "App15U",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 68,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 9
+  },
+  "kb" : 294.66620956246726
+}, {
+  "codigo" : 16,
+  "nombre" : "App16H",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 228,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "monthValue" : 8,
+    "dayOfMonth" : 15
+  },
+  "kb" : 616.8021240994991
+}, {
+  "codigo" : 17,
+  "nombre" : "App17G",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "MAY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 132,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 5,
+    "dayOfMonth" : 12
+  },
+  "kb" : 707.9765395363324
+}, {
+  "codigo" : 18,
+  "nombre" : "App18M",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 15,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "monthValue" : 1,
+    "dayOfMonth" : 15
+  },
+  "kb" : 409.78429162624906
+}, {
+  "codigo" : 19,
+  "nombre" : "App19W",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 5,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 1,
+    "dayOfMonth" : 5
+  },
+  "kb" : 486.4446216363899
+}, {
+  "codigo" : 20,
+  "nombre" : "App20K",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 276,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 3
+  },
+  "kb" : 855.905276231175
+}, {
+  "codigo" : 21,
+  "nombre" : "App21A",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 278,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 5
+  },
+  "kb" : 645.3395769801725
+}, {
+  "codigo" : 22,
+  "nombre" : "App22D",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "APRIL",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 109,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 4,
+    "dayOfMonth" : 19
+  },
+  "kb" : 514.6822846505388
+}, {
+  "codigo" : 23,
+  "nombre" : "App23F",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 293,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 20
+  },
+  "kb" : 595.133141991399
+}, {
+  "codigo" : 24,
+  "nombre" : "App24N",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 354,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 12,
+    "dayOfMonth" : 20
+  },
+  "kb" : 139.98408062937085
+}, {
+  "codigo" : 25,
+  "nombre" : "App25B",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 233,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 21
+  },
+  "kb" : 540.7201097563157
+}, {
+  "codigo" : 26,
+  "nombre" : "App26N",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 54,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 2,
+    "dayOfMonth" : 23
+  },
+  "kb" : 254.29532984717315
+}, {
+  "codigo" : 27,
+  "nombre" : "App27L",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 43,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 12
+  },
+  "kb" : 427.6933480864271
+}, {
+  "codigo" : 28,
+  "nombre" : "App28I",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 74,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 15
+  },
+  "kb" : 212.37670573882883
+}, {
+  "codigo" : 29,
+  "nombre" : "App29P",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 17,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 1,
+    "dayOfMonth" : 17
+  },
+  "kb" : 155.99206440473745
+}, {
+  "codigo" : 30,
+  "nombre" : "App30F",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 187,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 6
+  },
+  "kb" : 798.5682071752375
+}, {
+  "codigo" : 31,
+  "nombre" : "App31X",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 261,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 18
+  },
+  "kb" : 314.3251548236538
+}, {
+  "codigo" : 32,
+  "nombre" : "App32Z",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 186,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 5
+  },
+  "kb" : 127.54300894352671
+}, {
+  "codigo" : 33,
+  "nombre" : "App33U",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 360,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 25
+  },
+  "kb" : 849.9114437224549
+}, {
+  "codigo" : 34,
+  "nombre" : "App34M",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 331,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 27
+  },
+  "kb" : 725.0980672652946
+}, {
+  "codigo" : 35,
+  "nombre" : "App35S",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 88,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "monthValue" : 3,
+    "dayOfMonth" : 28
+  },
+  "kb" : 684.2630716832264
+}, {
+  "codigo" : 36,
+  "nombre" : "App36I",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 68,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 9
+  },
+  "kb" : 812.6584780349662
+}, {
+  "codigo" : 37,
+  "nombre" : "App37P",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 228,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 16
+  },
+  "kb" : 934.0056749359228
+}, {
+  "codigo" : 38,
+  "nombre" : "App38W",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 301,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 28
+  },
+  "kb" : 877.3391146389176
+}, {
+  "codigo" : 39,
+  "nombre" : "App39Z",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 281,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 8
+  },
+  "kb" : 756.3177693768005
+}, {
+  "codigo" : 40,
+  "nombre" : "App40S",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 301,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "monthValue" : 10,
+    "dayOfMonth" : 27
+  },
+  "kb" : 386.62043438497665
+}, {
+  "codigo" : 41,
+  "nombre" : "App41I",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 355,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 20
+  },
+  "kb" : 620.2489708163607
+}, {
+  "codigo" : 42,
+  "nombre" : "App42M",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "APRIL",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 117,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 4,
+    "dayOfMonth" : 26
+  },
+  "kb" : 114.48667126640439
+}, {
+  "codigo" : 43,
+  "nombre" : "App43S",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 35,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 4
+  },
+  "kb" : 121.61004496326669
+}, {
+  "codigo" : 44,
+  "nombre" : "App44C",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 35,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 2,
+    "dayOfMonth" : 4
+  },
+  "kb" : 579.6650364896533
+}, {
+  "codigo" : 45,
+  "nombre" : "App45O",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 336,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 12,
+    "dayOfMonth" : 2
+  },
+  "kb" : 895.5171690759487
+}, {
+  "codigo" : 46,
+  "nombre" : "App46C",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 308,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 4
+  },
+  "kb" : 556.0705533016048
+}, {
+  "codigo" : 47,
+  "nombre" : "App47F",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 299,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 26
+  },
+  "kb" : 205.2756376409746
+}, {
+  "codigo" : 48,
+  "nombre" : "App48W",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 279,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 6
+  },
+  "kb" : 726.944143818964
+}, {
+  "codigo" : 49,
+  "nombre" : "App49T",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "APRIL",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 99,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "monthValue" : 4,
+    "dayOfMonth" : 8
+  },
+  "kb" : 831.8007304655818
+} ]

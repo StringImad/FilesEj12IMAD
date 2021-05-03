@@ -1,0 +1,20 @@
+{
+  "codigo" : 32,
+  "nombre" : "App32D",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2021,
+    "month" : "JANUARY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 6,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 1,
+    "dayOfMonth" : 6
+  },
+  "kb" : 207.01717140718173
+}

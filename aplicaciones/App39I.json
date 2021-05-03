@@ -1,0 +1,20 @@
+{
+  "codigo" : 39,
+  "nombre" : "App39I",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 154,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false
+  },
+  "kb" : 119.51341788823224
+}

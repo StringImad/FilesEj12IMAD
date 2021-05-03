@@ -1,0 +1,20 @@
+{
+  "codigo" : 10,
+  "nombre" : "App10A",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 59,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 28
+  },
+  "kb" : 792.3905888010806
+}

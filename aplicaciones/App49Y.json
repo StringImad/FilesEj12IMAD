@@ -1,0 +1,20 @@
+{
+  "codigo" : 49,
+  "nombre" : "App49Y",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2021,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 20,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false
+  },
+  "kb" : 969.0703995005222
+}

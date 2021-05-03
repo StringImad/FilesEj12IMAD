@@ -1,0 +1,20 @@
+{
+  "codigo" : 43,
+  "nombre" : "App43F",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "JULY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 205,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "monthValue" : 7,
+    "dayOfMonth" : 23
+  },
+  "kb" : 168.87066608234457
+}

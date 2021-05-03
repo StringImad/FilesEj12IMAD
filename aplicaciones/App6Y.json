@@ -1,0 +1,20 @@
+{
+  "codigo" : 6,
+  "nombre" : "App6Y",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 11,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 345,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false
+  },
+  "kb" : 529.9402592962381
+}

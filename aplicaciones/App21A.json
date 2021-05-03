@@ -1,0 +1,20 @@
+{
+  "codigo" : 21,
+  "nombre" : "App21A",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 278,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 5
+  },
+  "kb" : 645.3395769801725
+}

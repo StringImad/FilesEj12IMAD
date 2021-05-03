@@ -1,0 +1,20 @@
+{
+  "codigo" : 32,
+  "nombre" : "App32P",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 17,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 48,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 996.0567477020147
+}

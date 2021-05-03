@@ -1,0 +1,20 @@
+{
+  "codigo" : 43,
+  "nombre" : "App43M",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 172,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true
+  },
+  "kb" : 544.7914103642394
+}

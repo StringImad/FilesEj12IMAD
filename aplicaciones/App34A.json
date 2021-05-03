@@ -1,0 +1,20 @@
+{
+  "codigo" : 34,
+  "nombre" : "App34A",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 32,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false
+  },
+  "kb" : 633.5006869156313
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 11,
+  "nombre" : "App11V",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2021,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 79,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 20
+  },
+  "kb" : 443.83907165884546
+}

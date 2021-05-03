@@ -1,0 +1,20 @@
+{
+  "codigo" : 1,
+  "nombre" : "App1R",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "JULY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 198,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "monthValue" : 7,
+    "dayOfMonth" : 16
+  },
+  "kb" : 811.6819922586858
+}

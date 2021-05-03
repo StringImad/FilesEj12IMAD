@@ -1,0 +1,20 @@
+{
+  "codigo" : 24,
+  "nombre" : "App24D",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 262,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "monthValue" : 9,
+    "dayOfMonth" : 18
+  },
+  "kb" : 783.8275771664437
+}

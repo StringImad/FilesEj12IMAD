@@ -1,0 +1,20 @@
+{
+  "codigo" : 41,
+  "nombre" : "App41I",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 355,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 20
+  },
+  "kb" : 620.2489708163607
+}

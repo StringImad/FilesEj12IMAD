@@ -1,0 +1,20 @@
+{
+  "codigo" : 9,
+  "nombre" : "App9S",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 16,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 197,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false
+  },
+  "kb" : 998.2090979687525
+}

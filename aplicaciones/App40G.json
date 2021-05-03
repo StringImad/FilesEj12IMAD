@@ -1,0 +1,20 @@
+{
+  "codigo" : 40,
+  "nombre" : "App40G",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "JULY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 191,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 10
+  },
+  "kb" : 988.2641634339403
+}

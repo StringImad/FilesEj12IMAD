@@ -1,0 +1,20 @@
+{
+  "codigo" : 5,
+  "nombre" : "App5Q",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 8,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 313,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true
+  },
+  "kb" : 264.53763812621105
+}

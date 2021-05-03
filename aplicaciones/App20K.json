@@ -1,0 +1,20 @@
+{
+  "codigo" : 20,
+  "nombre" : "App20K",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 276,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 3
+  },
+  "kb" : 855.905276231175
+}

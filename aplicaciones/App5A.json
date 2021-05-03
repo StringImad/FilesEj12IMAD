@@ -1,0 +1,20 @@
+{
+  "codigo" : 5,
+  "nombre" : "App5A",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 217,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 5
+  },
+  "kb" : 251.20479339280757
+}

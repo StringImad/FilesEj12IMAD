@@ -1,0 +1,20 @@
+{
+  "codigo" : 19,
+  "nombre" : "App19R",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 2,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 153,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false
+  },
+  "kb" : 326.9634273788238
+}

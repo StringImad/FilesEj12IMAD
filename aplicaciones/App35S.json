@@ -1,0 +1,20 @@
+{
+  "codigo" : 35,
+  "nombre" : "App35S",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 88,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "monthValue" : 3,
+    "dayOfMonth" : 28
+  },
+  "kb" : 684.2630716832264
+}

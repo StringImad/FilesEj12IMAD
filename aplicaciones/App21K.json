@@ -1,0 +1,20 @@
+{
+  "codigo" : 21,
+  "nombre" : "App21K",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 6,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 97,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true
+  },
+  "kb" : 645.820513372928
+}

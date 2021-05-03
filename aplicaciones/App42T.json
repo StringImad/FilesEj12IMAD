@@ -1,0 +1,20 @@
+{
+  "codigo" : 42,
+  "nombre" : "App42T",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 308,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 4
+  },
+  "kb" : 569.8355268917126
+}

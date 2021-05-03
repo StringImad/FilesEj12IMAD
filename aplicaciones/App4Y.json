@@ -1,0 +1,20 @@
+{
+  "codigo" : 4,
+  "nombre" : "App4Y",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 25,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 298,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 587.5812069583396
+}

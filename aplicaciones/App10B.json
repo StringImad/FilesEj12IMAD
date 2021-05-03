@@ -1,0 +1,20 @@
+{
+  "codigo" : 10,
+  "nombre" : "App10B",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 24,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 24,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 473.59985433811676
+}

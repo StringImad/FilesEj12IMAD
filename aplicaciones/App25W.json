@@ -1,0 +1,20 @@
+{
+  "codigo" : 25,
+  "nombre" : "App25W",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 302,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "monthValue" : 10,
+    "dayOfMonth" : 28
+  },
+  "kb" : 543.3003007126058
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 2,
+  "nombre" : "App2J",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "MARCH",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 70,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "monthValue" : 3,
+    "dayOfMonth" : 10
+  },
+  "kb" : 664.9682591077891
+}

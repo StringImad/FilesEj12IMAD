@@ -1,0 +1,20 @@
+{
+  "codigo" : 38,
+  "nombre" : "App38U",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 354,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false
+  },
+  "kb" : 753.4124221186563
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 44,
+  "nombre" : "App44T",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 6,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 96,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false
+  },
+  "kb" : 338.2966815403582
+}

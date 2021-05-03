@@ -1,0 +1,20 @@
+{
+  "codigo" : 38,
+  "nombre" : "App38W",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 301,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 28
+  },
+  "kb" : 877.3391146389176
+}

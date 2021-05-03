@@ -1,0 +1,20 @@
+{
+  "codigo" : 8,
+  "nombre" : "App8G",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 23,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 1,
+    "dayOfMonth" : 23
+  },
+  "kb" : 624.7845421046825
+}

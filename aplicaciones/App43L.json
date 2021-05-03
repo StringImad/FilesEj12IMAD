@@ -1,0 +1,20 @@
+{
+  "codigo" : 43,
+  "nombre" : "App43L",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 8,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 129,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true
+  },
+  "kb" : 934.3988481438059
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 4,
+  "nombre" : "App4R",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 360,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 12,
+    "dayOfMonth" : 26
+  },
+  "kb" : 292.77094041382475
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 16,
+  "nombre" : "App16E",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2021,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 14,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 14,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false
+  },
+  "kb" : 813.8672480685265
+}

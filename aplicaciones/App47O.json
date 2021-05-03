@@ -1,0 +1,20 @@
+{
+  "codigo" : 47,
+  "nombre" : "App47O",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 8,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 220,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false
+  },
+  "kb" : 1022.6872931065805
+}

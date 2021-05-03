@@ -1,0 +1,20 @@
+{
+  "codigo" : 28,
+  "nombre" : "App28U",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 91,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false
+  },
+  "kb" : 688.3781020724568
+}

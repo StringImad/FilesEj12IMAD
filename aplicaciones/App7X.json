@@ -1,0 +1,20 @@
+{
+  "codigo" : 7,
+  "nombre" : "App7X",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 24,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 144,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 938.2095897263054
+}

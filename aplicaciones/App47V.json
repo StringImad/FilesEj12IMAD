@@ -1,0 +1,20 @@
+{
+  "codigo" : 47,
+  "nombre" : "App47V",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 290,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 17
+  },
+  "kb" : 990.0881164384709
+}

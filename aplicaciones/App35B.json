@@ -1,0 +1,20 @@
+{
+  "codigo" : 35,
+  "nombre" : "App35B",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 27,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false
+  },
+  "kb" : 938.6793252805852
+}

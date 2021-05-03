@@ -1,0 +1,20 @@
+{
+  "codigo" : 25,
+  "nombre" : "App25B",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 233,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 21
+  },
+  "kb" : 540.7201097563157
+}

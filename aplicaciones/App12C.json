@@ -1,0 +1,20 @@
+{
+  "codigo" : 12,
+  "nombre" : "App12C",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 242,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 30
+  },
+  "kb" : 781.2817744643309
+}

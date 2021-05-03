@@ -1,0 +1,20 @@
+{
+  "codigo" : 2,
+  "nombre" : "App2O",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 29,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 29,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true
+  },
+  "kb" : 802.0638079888574
+}

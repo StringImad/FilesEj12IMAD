@@ -1,0 +1,20 @@
+{
+  "codigo" : 6,
+  "nombre" : "App6P",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 362,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 27
+  },
+  "kb" : 971.0582552405838
+}

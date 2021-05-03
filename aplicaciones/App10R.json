@@ -1,0 +1,20 @@
+{
+  "codigo" : 10,
+  "nombre" : "App10R",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JULY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 195,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 14
+  },
+  "kb" : 392.75936980317624
+}

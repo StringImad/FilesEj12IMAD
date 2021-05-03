@@ -1,0 +1,20 @@
+{
+  "codigo" : 19,
+  "nombre" : "App19X",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 50,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 19
+  },
+  "kb" : 799.187749211651
+}

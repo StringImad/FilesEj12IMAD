@@ -1,0 +1,20 @@
+{
+  "codigo" : 29,
+  "nombre" : "App29S",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 27,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 335.94179942443816
+}

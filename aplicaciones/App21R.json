@@ -1,0 +1,20 @@
+{
+  "codigo" : 21,
+  "nombre" : "App21R",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 332,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 11,
+    "dayOfMonth" : 27
+  },
+  "kb" : 226.82866572942706
+}

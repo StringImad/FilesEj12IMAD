@@ -1,0 +1,20 @@
+{
+  "codigo" : 19,
+  "nombre" : "App19W",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 5,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 1,
+    "dayOfMonth" : 5
+  },
+  "kb" : 486.4446216363899
+}

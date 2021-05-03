@@ -1,0 +1,20 @@
+{
+  "codigo" : 39,
+  "nombre" : "App39Z",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 281,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 8
+  },
+  "kb" : 756.3177693768005
+}

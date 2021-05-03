@@ -1,0 +1,20 @@
+{
+  "codigo" : 40,
+  "nombre" : "App40J",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 30,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 364,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false
+  },
+  "kb" : 883.1162834429202
+}

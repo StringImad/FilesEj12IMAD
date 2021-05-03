@@ -1,0 +1,20 @@
+{
+  "codigo" : 49,
+  "nombre" : "App49T",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "APRIL",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 99,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "monthValue" : 4,
+    "dayOfMonth" : 8
+  },
+  "kb" : 831.8007304655818
+}

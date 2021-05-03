@@ -1,0 +1,20 @@
+{
+  "codigo" : 9,
+  "nombre" : "App9D",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 47,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 16
+  },
+  "kb" : 247.02426608128673
+}

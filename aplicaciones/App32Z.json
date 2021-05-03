@@ -1,0 +1,20 @@
+{
+  "codigo" : 32,
+  "nombre" : "App32Z",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 186,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 7,
+    "dayOfMonth" : 5
+  },
+  "kb" : 127.54300894352671
+}

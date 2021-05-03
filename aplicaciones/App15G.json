@@ -1,0 +1,20 @@
+{
+  "codigo" : 15,
+  "nombre" : "App15G",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 87,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false
+  },
+  "kb" : 211.12493728616968
+}

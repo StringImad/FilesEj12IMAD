@@ -1,0 +1,20 @@
+{
+  "codigo" : 29,
+  "nombre" : "App29L",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 6,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 157,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false
+  },
+  "kb" : 233.45597352016995
+}

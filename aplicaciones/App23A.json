@@ -1,0 +1,20 @@
+{
+  "codigo" : 23,
+  "nombre" : "App23A",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 19,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 170,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false
+  },
+  "kb" : 189.67221849802263
+}

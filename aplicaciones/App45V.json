@@ -1,0 +1,20 @@
+{
+  "codigo" : 45,
+  "nombre" : "App45V",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 314,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 10
+  },
+  "kb" : 161.2698347540233
+}

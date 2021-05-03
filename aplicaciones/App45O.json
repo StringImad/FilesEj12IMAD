@@ -1,0 +1,20 @@
+{
+  "codigo" : 45,
+  "nombre" : "App45O",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 336,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 12,
+    "dayOfMonth" : 2
+  },
+  "kb" : 895.5171690759487
+}

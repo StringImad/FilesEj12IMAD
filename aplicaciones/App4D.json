@@ -1,0 +1,20 @@
+{
+  "codigo" : 4,
+  "nombre" : "App4D",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 309,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 5
+  },
+  "kb" : 765.9627275964677
+}

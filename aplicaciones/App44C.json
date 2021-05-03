@@ -1,0 +1,20 @@
+{
+  "codigo" : 44,
+  "nombre" : "App44C",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 35,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 2,
+    "dayOfMonth" : 4
+  },
+  "kb" : 579.6650364896533
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 26,
+  "nombre" : "App26M",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 103,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true
+  },
+  "kb" : 239.43242385908985
+}

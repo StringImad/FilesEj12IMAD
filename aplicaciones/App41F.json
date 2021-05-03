@@ -1,0 +1,20 @@
+{
+  "codigo" : 41,
+  "nombre" : "App41F",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 118,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false
+  },
+  "kb" : 103.56312182285049
+}

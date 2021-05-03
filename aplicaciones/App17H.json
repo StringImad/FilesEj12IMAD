@@ -1,0 +1,20 @@
+{
+  "codigo" : 17,
+  "nombre" : "App17H",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "MAY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 128,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "monthValue" : 5,
+    "dayOfMonth" : 7
+  },
+  "kb" : 582.8008469100045
+}

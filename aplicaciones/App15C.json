@@ -1,0 +1,20 @@
+{
+  "codigo" : 15,
+  "nombre" : "App15C",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 259,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 16
+  },
+  "kb" : 558.7751081890874
+}

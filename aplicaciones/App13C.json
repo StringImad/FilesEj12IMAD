@@ -1,0 +1,20 @@
+{
+  "codigo" : 13,
+  "nombre" : "App13C",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 278,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 10,
+    "dayOfMonth" : 5
+  },
+  "kb" : 243.9160667797896
+}

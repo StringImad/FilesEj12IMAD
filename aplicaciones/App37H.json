@@ -1,0 +1,20 @@
+{
+  "codigo" : 37,
+  "nombre" : "App37H",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 87,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false
+  },
+  "kb" : 519.907661515614
+}

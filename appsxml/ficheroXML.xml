@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:xmlCatalogoApp xmlns:ns2="ejemploJAXB">
+    <catalogo>
+        <mueble>
+            <codigo>0</codigo>
+            <nombre>App0T</nombre>
+            <descripcion>prueba descripcion 3</descripcion>
+            <Kb>124.90667198478874</Kb>
+            <fecha>2020-08-21</fecha>
+        </mueble>
+        <mueble>
+            <codigo>1</codigo>
+            <nombre>App1M</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>192.05779575660773</Kb>
+            <fecha>2013-12-18</fecha>
+        </mueble>
+        <mueble>
+            <codigo>2</codigo>
+            <nombre>App2D</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>656.557953907008</Kb>
+            <fecha>2015-06-01</fecha>
+        </mueble>
+        <mueble>
+            <codigo>3</codigo>
+            <nombre>App3A</nombre>
+            <descripcion>prueba descripcion 6</descripcion>
+            <Kb>974.5212189667349</Kb>
+            <fecha>2014-07-24</fecha>
+        </mueble>
+        <mueble>
+            <codigo>4</codigo>
+            <nombre>App4D</nombre>
+            <descripcion>prueba descripcion 2</descripcion>
+            <Kb>765.9627275964677</Kb>
+            <fecha>2015-11-05</fecha>
+        </mueble>
+        <mueble>
+            <codigo>5</codigo>
+            <nombre>App5A</nombre>
+            <descripcion>prueba descripcion 2</descripcion>
+            <Kb>251.20479339280757</Kb>
+            <fecha>2019-08-05</fecha>
+        </mueble>
+        <mueble>
+            <codigo>6</codigo>
+            <nombre>App6P</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>971.0582552405838</Kb>
+            <fecha>2016-12-27</fecha>
+        </mueble>
+        <mueble>
+            <codigo>7</codigo>
+            <nombre>App7J</nombre>
+            <descripcion>vprueba descripcion 5</descripcion>
+            <Kb>295.5263744658438</Kb>
+            <fecha>2015-06-18</fecha>
+        </mueble>
+        <mueble>
+            <codigo>8</codigo>
+            <nombre>App8G</nombre>
+            <descripcion>Descripcion de prueba 1</descripcion>
+            <Kb>624.7845421046825</Kb>
+            <fecha>2015-01-23</fecha>
+        </mueble>
+        <mueble>
+            <codigo>9</codigo>
+            <nombre>App9N</nombre>
+            <descripcion>vprueba descripcion 5</descripcion>
+            <Kb>751.9569375177267</Kb>
+            <fecha>2019-07-31</fecha>
+        </mueble>
+        <mueble>
+            <codigo>10</codigo>
+            <nombre>App10A</nombre>
+            <descripcion>prueba descripcion 2</descripcion>
+            <Kb>792.3905888010806</Kb>
+            <fecha>2019-02-28</fecha>
+        </mueble>
+        <mueble>
+            <codigo>11</codigo>
+            <nombre>App11V</nombre>
+            <descripcion>Descripcion de prueba 8</descripcion>
+            <Kb>443.83907165884546</Kb>
+            <fecha>2021-03-20</fecha>
+        </mueble>
+        <mueble>
+            <codigo>12</codigo>
+            <nombre>App12C</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>781.2817744643309</Kb>
+            <fecha>2013-08-30</fecha>
+        </mueble>
+        <mueble>
+            <codigo>13</codigo>
+            <nombre>App13B</nombre>
+            <descripcion>Descripcion de prueba 1</descripcion>
+            <Kb>382.389995768738</Kb>
+            <fecha>2013-02-23</fecha>
+        </mueble>
+        <mueble>
+            <codigo>14</codigo>
+            <nombre>App14D</nombre>
+            <descripcion>prueba descripcion 4</descripcion>
+            <Kb>374.4723484161138</Kb>
+            <fecha>2015-08-30</fecha>
+        </mueble>
+        <mueble>
+            <codigo>15</codigo>
+            <nombre>App15U</nombre>
+            <descripcion>Descripcion de prueba 9</descripcion>
+            <Kb>294.66620956246726</Kb>
+            <fecha>2018-03-09</fecha>
+        </mueble>
+        <mueble>
+            <codigo>16</codigo>
+            <nombre>App16H</nombre>
+            <descripcion>prueba descripcion 4</descripcion>
+            <Kb>616.8021240994991</Kb>
+            <fecha>2020-08-15</fecha>
+        </mueble>
+        <mueble>
+            <codigo>17</codigo>
+            <nombre>App17G</nombre>
+            <descripcion>prueba descripcion 6</descripcion>
+            <Kb>707.9765395363324</Kb>
+            <fecha>2017-05-12</fecha>
+        </mueble>
+        <mueble>
+            <codigo>18</codigo>
+            <nombre>App18M</nombre>
+            <descripcion>Descripcion de prueba 1</descripcion>
+            <Kb>409.78429162624906</Kb>
+            <fecha>2019-01-15</fecha>
+        </mueble>
+        <mueble>
+            <codigo>19</codigo>
+            <nombre>App19W</nombre>
+            <descripcion>Descripcion de prueba 9</descripcion>
+            <Kb>486.4446216363899</Kb>
+            <fecha>2020-01-05</fecha>
+        </mueble>
+        <mueble>
+            <codigo>20</codigo>
+            <nombre>App20K</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>855.905276231175</Kb>
+            <fecha>2015-10-03</fecha>
+        </mueble>
+        <mueble>
+            <codigo>21</codigo>
+            <nombre>App21A</nombre>
+            <descripcion>prueba descripcion 4</descripcion>
+            <Kb>645.3395769801725</Kb>
+            <fecha>2019-10-05</fecha>
+        </mueble>
+        <mueble>
+            <codigo>22</codigo>
+            <nombre>App22D</nombre>
+            <descripcion>Descripcion de prueba 1</descripcion>
+            <Kb>514.6822846505388</Kb>
+            <fecha>2019-04-19</fecha>
+        </mueble>
+        <mueble>
+            <codigo>23</codigo>
+            <nombre>App23F</nombre>
+            <descripcion>prueba descripcion 2</descripcion>
+            <Kb>595.133141991399</Kb>
+            <fecha>2013-10-20</fecha>
+        </mueble>
+        <mueble>
+            <codigo>24</codigo>
+            <nombre>App24N</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>139.98408062937085</Kb>
+            <fecha>2018-12-20</fecha>
+        </mueble>
+        <mueble>
+            <codigo>25</codigo>
+            <nombre>App25B</nombre>
+            <descripcion>Descripcion de prueba 1</descripcion>
+            <Kb>540.7201097563157</Kb>
+            <fecha>2014-08-21</fecha>
+        </mueble>
+        <mueble>
+            <codigo>26</codigo>
+            <nombre>App26N</nombre>
+            <descripcion>prueba descripcion 4</descripcion>
+            <Kb>254.29532984717315</Kb>
+            <fecha>2016-02-23</fecha>
+        </mueble>
+        <mueble>
+            <codigo>27</codigo>
+            <nombre>App27L</nombre>
+            <descripcion>vprueba descripcion 5</descripcion>
+            <Kb>427.6933480864271</Kb>
+            <fecha>2015-02-12</fecha>
+        </mueble>
+        <mueble>
+            <codigo>28</codigo>
+            <nombre>App28I</nombre>
+            <descripcion>Descripcion de prueba 8</descripcion>
+            <Kb>212.37670573882883</Kb>
+            <fecha>2018-03-15</fecha>
+        </mueble>
+        <mueble>
+            <codigo>29</codigo>
+            <nombre>App29P</nombre>
+            <descripcion>Descripcion de prueba 7</descripcion>
+            <Kb>155.99206440473745</Kb>
+            <fecha>2016-01-17</fecha>
+        </mueble>
+        <mueble>
+            <codigo>30</codigo>
+            <nombre>App30F</nombre>
+            <descripcion>Descripcion de prueba 9</descripcion>
+            <Kb>798.5682071752375</Kb>
+            <fecha>2017-07-06</fecha>
+        </mueble>
+        <mueble>
+            <codigo>31</codigo>
+            <nombre>App31X</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>314.3251548236538</Kb>
+            <fecha>2013-09-18</fecha>
+        </mueble>
+        <mueble>
+            <codigo>32</codigo>
+            <nombre>App32Z</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>127.54300894352671</Kb>
+            <fecha>2014-07-05</fecha>
+        </mueble>
+        <mueble>
+            <codigo>33</codigo>
+            <nombre>App33U</nombre>
+            <descripcion>prueba descripcion 6</descripcion>
+            <Kb>849.9114437224549</Kb>
+            <fecha>2016-12-25</fecha>
+        </mueble>
+        <mueble>
+            <codigo>34</codigo>
+            <nombre>App34M</nombre>
+            <descripcion>prueba descripcion 2</descripcion>
+            <Kb>725.0980672652946</Kb>
+            <fecha>2015-11-27</fecha>
+        </mueble>
+        <mueble>
+            <codigo>35</codigo>
+            <nombre>App35S</nombre>
+            <descripcion>prueba descripcion 4</descripcion>
+            <Kb>684.2630716832264</Kb>
+            <fecha>2020-03-28</fecha>
+        </mueble>
+        <mueble>
+            <codigo>36</codigo>
+            <nombre>App36I</nombre>
+            <descripcion>prueba descripcion 4</descripcion>
+            <Kb>812.6584780349662</Kb>
+            <fecha>2019-03-09</fecha>
+        </mueble>
+        <mueble>
+            <codigo>37</codigo>
+            <nombre>App37P</nombre>
+            <descripcion>Descripcion de prueba 9</descripcion>
+            <Kb>934.0056749359228</Kb>
+            <fecha>2017-08-16</fecha>
+        </mueble>
+        <mueble>
+            <codigo>38</codigo>
+            <nombre>App38W</nombre>
+            <descripcion>Descripcion de prueba 1</descripcion>
+            <Kb>877.3391146389176</Kb>
+            <fecha>2013-10-28</fecha>
+        </mueble>
+        <mueble>
+            <codigo>39</codigo>
+            <nombre>App39Z</nombre>
+            <descripcion>prueba descripcion 6</descripcion>
+            <Kb>756.3177693768005</Kb>
+            <fecha>2017-10-08</fecha>
+        </mueble>
+        <mueble>
+            <codigo>40</codigo>
+            <nombre>App40S</nombre>
+            <descripcion>Descripcion de prueba 9</descripcion>
+            <Kb>386.62043438497665</Kb>
+            <fecha>2016-10-27</fecha>
+        </mueble>
+        <mueble>
+            <codigo>41</codigo>
+            <nombre>App41I</nombre>
+            <descripcion>Descripcion de prueba 7</descripcion>
+            <Kb>620.2489708163607</Kb>
+            <fecha>2016-12-20</fecha>
+        </mueble>
+        <mueble>
+            <codigo>42</codigo>
+            <nombre>App42M</nombre>
+            <descripcion>Descripcion de prueba 9</descripcion>
+            <Kb>114.48667126640439</Kb>
+            <fecha>2020-04-26</fecha>
+        </mueble>
+        <mueble>
+            <codigo>43</codigo>
+            <nombre>App43S</nombre>
+            <descripcion>vprueba descripcion 5</descripcion>
+            <Kb>121.61004496326669</Kb>
+            <fecha>2017-02-04</fecha>
+        </mueble>
+        <mueble>
+            <codigo>44</codigo>
+            <nombre>App44C</nombre>
+            <descripcion>Descripcion de prueba 8</descripcion>
+            <Kb>579.6650364896533</Kb>
+            <fecha>2020-02-04</fecha>
+        </mueble>
+        <mueble>
+            <codigo>45</codigo>
+            <nombre>App45O</nombre>
+            <descripcion>Descripcion de prueba 8</descripcion>
+            <Kb>895.5171690759487</Kb>
+            <fecha>2018-12-02</fecha>
+        </mueble>
+        <mueble>
+            <codigo>46</codigo>
+            <nombre>App46C</nombre>
+            <descripcion>prueba descripcion 6</descripcion>
+            <Kb>556.0705533016048</Kb>
+            <fecha>2015-11-04</fecha>
+        </mueble>
+        <mueble>
+            <codigo>47</codigo>
+            <nombre>App47F</nombre>
+            <descripcion>Descripcion de prueba 9</descripcion>
+            <Kb>205.2756376409746</Kb>
+            <fecha>2017-10-26</fecha>
+        </mueble>
+        <mueble>
+            <codigo>48</codigo>
+            <nombre>App48W</nombre>
+            <descripcion>prueba descripcion 3</descripcion>
+            <Kb>726.944143818964</Kb>
+            <fecha>2018-10-06</fecha>
+        </mueble>
+        <mueble>
+            <codigo>49</codigo>
+            <nombre>App49T</nombre>
+            <descripcion>Descripcion de prueba 10</descripcion>
+            <Kb>831.8007304655818</Kb>
+            <fecha>2016-04-08</fecha>
+        </mueble>
+    </catalogo>
+</ns2:xmlCatalogoApp>

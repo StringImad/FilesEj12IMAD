@@ -1,0 +1,20 @@
+{
+  "codigo" : 28,
+  "nombre" : "App28C",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "AUGUST",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 229,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 17
+  },
+  "kb" : 634.3334485034319
+}

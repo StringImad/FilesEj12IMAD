@@ -1,0 +1,20 @@
+{
+  "codigo" : 19,
+  "nombre" : "App19U",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 22,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 173,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false
+  },
+  "kb" : 772.9698525131798
+}

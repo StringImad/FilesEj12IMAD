@@ -5,26 +5,31 @@
  */
 package imad.filesej_imad;
 
-import static java.lang.Math.random;
-import static java.lang.StrictMath.random;
-import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.time.Month;
 import java.time.format.DateTimeFormatter;
-import java.util.Comparator;
 import java.util.Random;
-import java.util.stream.DoubleStream;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 /**
  *
  * @author MSI
  */
+
+// Anotación @XmlRootElement, nombre de la etiqueta XML raíz.
+@XmlRootElement(name = "App")
+// Anotación @XmlAccesorType define el elemento que usará JAXB durante el 
+// procesamiento de datos (en este caso por atributo)
+@XmlAccessorType(XmlAccessType.FIELD)
 public class App {
 
     private int codigo;
     private String nombre;
     private String descripcion;
     private double Kb;
+    @XmlJavaTypeAdapter(value = LocalDateAdapter.class)
     private LocalDate fecha;
     private static int contadorInstancias;
     private static Random random = new Random();
@@ -90,19 +95,20 @@ public class App {
     private static LocalDate generarFechaAleatoria() {
         LocalDate fechaAleatoria;
         int aleatorio = 0;
-        aleatorio = random.nextInt(30) + 1;
-        fechaAleatoria = LocalDate.of(random.nextInt(10) + 2020, random.nextInt(12) + 1, random.nextInt(30) + 1);
+        aleatorio = random.nextInt(3000) + 1;
+        fechaAleatoria = LocalDate.now().minusDays(aleatorio);
         DateTimeFormatter formatoFecha = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         formatoFecha.format(fechaAleatoria);
         return fechaAleatoria;
     }
-    
-//    private static App generarObjetoAleatorio(){
-//        App appCreada = new App(contadorInstancias,this.nombre, descripcion, contadorInstancias, LocalDate.EPOCH);
-//        
-//       
-//        return appCreada;
-//    }
+
+    public static App generarObjetoAleatorio() {
+        char aleatorio = (char) (65 + random.nextInt(26));
+
+        App appCreada = new App(getContadorInstancias(), "App" + getContadorInstancias() + aleatorio, generarDescripciones(), generarTamnyoApp(), generarFechaAleatoria());
+
+        return appCreada;
+    }
 
     public int getCodigo() {
         return codigo;

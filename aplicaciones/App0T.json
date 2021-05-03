@@ -1,0 +1,20 @@
+{
+  "codigo" : 0,
+  "nombre" : "App0T",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 234,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "monthValue" : 8,
+    "dayOfMonth" : 21
+  },
+  "kb" : 124.90667198478874
+}

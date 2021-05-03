@@ -1,0 +1,20 @@
+{
+  "codigo" : 36,
+  "nombre" : "App36W",
+  "descripcion" : "Descripcion de prueba 9",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 26,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 177,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false
+  },
+  "kb" : 666.0350336037653
+}

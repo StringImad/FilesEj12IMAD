@@ -7,12 +7,14 @@ package imad.filesej_imad;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
+import javax.xml.bind.Unmarshaller;
 
 /**
  *
@@ -51,16 +53,22 @@ public class ServicioFicheroXML {
         serializador.marshal(catalogo, new File(ruta));
 
     }
+    // método para poder leer el fichero XML
+     public static void leerFicheroXML(String nombre) throws JAXBException,
+            FileNotFoundException {
 
-//    // Genera una lista de numMuebles muebles
-//    public static ArrayList<App> generarListaApps() {
-//
-//        ArrayList<App> listaTodaApp = new ArrayList<>();
-//
-//        for (int i = 10; i < 50; i++) {
-//            listaTodaApp.add(new App());
-//        }
-//
-//        return listaTodaApp;
-//    }
+        // Crea el contexto JAXB 
+        JAXBContext contexto = JAXBContext.newInstance(XmlCatalogoApp.class);
+        // Crea el objeto Unmarshaller
+        Unmarshaller um = contexto.createUnmarshaller();
+
+        // Llama al método de unmarshalling
+        XmlCatalogoApp catalogo = (XmlCatalogoApp) um.unmarshal(new File("catalogo.xml"));
+
+        ArrayList<App> listaApps = catalogo.getListaApp();
+
+        listaApps.forEach(System.out::println);
+    }
+
+
 }

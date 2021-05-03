@@ -1,0 +1,20 @@
+{
+  "codigo" : 33,
+  "nombre" : "App33N",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 351,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 16
+  },
+  "kb" : 307.17434081305737
+}

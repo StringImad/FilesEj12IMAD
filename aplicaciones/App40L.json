@@ -1,0 +1,20 @@
+{
+  "codigo" : 40,
+  "nombre" : "App40L",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 21,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 355,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false
+  },
+  "kb" : 944.2384380157883
+}

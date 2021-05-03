@@ -1,0 +1,20 @@
+{
+  "codigo" : 44,
+  "nombre" : "App44J",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 18,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 78,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true
+  },
+  "kb" : 722.6594575537437
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 37,
+  "nombre" : "App37E",
+  "descripcion" : "vprueba descripcion 5",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 347,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 12
+  },
+  "kb" : 535.5345321937034
+}

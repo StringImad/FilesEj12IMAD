@@ -1,0 +1,20 @@
+{
+  "codigo" : 17,
+  "nombre" : "App17G",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "MAY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 132,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 5,
+    "dayOfMonth" : 12
+  },
+  "kb" : 707.9765395363324
+}

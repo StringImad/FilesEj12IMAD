@@ -1,0 +1,20 @@
+{
+  "codigo" : 26,
+  "nombre" : "App26N",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 54,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 2,
+    "dayOfMonth" : 23
+  },
+  "kb" : 254.29532984717315
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 1,
+  "nombre" : "App1O",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 23,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 82,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 239.93390937570425
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 36,
+  "nombre" : "App36X",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 45,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 14
+  },
+  "kb" : 142.82817590555683
+}

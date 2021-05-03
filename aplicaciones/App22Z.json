@@ -1,0 +1,20 @@
+{
+  "codigo" : 22,
+  "nombre" : "App22Z",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 16,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 228,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 702.7517630646468
+}

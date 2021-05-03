@@ -1,0 +1,20 @@
+{
+  "codigo" : 29,
+  "nombre" : "App29Y",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 355,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 12,
+    "dayOfMonth" : 21
+  },
+  "kb" : 261.96261548714966
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 8,
+  "nombre" : "App8H",
+  "descripcion" : "prueba descripcion 6",
+  "fecha" : {
+    "year" : 2021,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 2,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 122,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false
+  },
+  "kb" : 702.7906032513182
+}

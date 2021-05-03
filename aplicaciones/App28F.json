@@ -1,0 +1,20 @@
+{
+  "codigo" : 28,
+  "nombre" : "App28F",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2020,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 325,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true
+  },
+  "kb" : 225.9726901214328
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 17,
+  "nombre" : "App17W",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 246,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false
+  },
+  "kb" : 370.9714493994302
+}

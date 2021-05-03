@@ -1,0 +1,20 @@
+{
+  "codigo" : 35,
+  "nombre" : "App35A",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 184,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 558.18599785271
+}

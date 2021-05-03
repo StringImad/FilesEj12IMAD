@@ -1,0 +1,20 @@
+{
+  "codigo" : 35,
+  "nombre" : "App35P",
+  "descripcion" : "Descripcion de prueba 7",
+  "fecha" : {
+    "year" : 2018,
+    "month" : "APRIL",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 92,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 4,
+    "dayOfMonth" : 2
+  },
+  "kb" : 479.9154194232035
+}

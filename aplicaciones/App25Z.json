@@ -1,0 +1,20 @@
+{
+  "codigo" : 25,
+  "nombre" : "App25Z",
+  "descripcion" : "prueba descripcion 3",
+  "fecha" : {
+    "year" : 2017,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 20,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false
+  },
+  "kb" : 622.1889656497524
+}

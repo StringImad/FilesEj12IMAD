@@ -1,0 +1,20 @@
+{
+  "codigo" : 31,
+  "nombre" : "App31C",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2014,
+    "month" : "MAY",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 129,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 5,
+    "dayOfMonth" : 9
+  },
+  "kb" : 708.5139993193676
+}

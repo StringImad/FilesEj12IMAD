@@ -1,0 +1,20 @@
+{
+  "codigo" : 14,
+  "nombre" : "App14D",
+  "descripcion" : "prueba descripcion 4",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 242,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 30
+  },
+  "kb" : 374.4723484161138
+}

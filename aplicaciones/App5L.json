@@ -1,0 +1,20 @@
+{
+  "codigo" : 5,
+  "nombre" : "App5L",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "OCTOBER",
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "era" : "CE",
+    "dayOfYear" : 286,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "monthValue" : 10,
+    "dayOfMonth" : 12
+  },
+  "kb" : 732.000377453917
+}

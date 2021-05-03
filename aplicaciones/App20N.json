@@ -1,0 +1,20 @@
+{
+  "codigo" : 20,
+  "nombre" : "App20N",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2016,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 21,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 52,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true
+  },
+  "kb" : 851.2540289866072
+}

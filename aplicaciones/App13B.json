@@ -1,0 +1,20 @@
+{
+  "codigo" : 13,
+  "nombre" : "App13B",
+  "descripcion" : "Descripcion de prueba 1",
+  "fecha" : {
+    "year" : 2013,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 54,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 23
+  },
+  "kb" : 382.389995768738
+}

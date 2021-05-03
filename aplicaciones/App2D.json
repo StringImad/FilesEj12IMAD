@@ -1,0 +1,20 @@
+{
+  "codigo" : 2,
+  "nombre" : "App2D",
+  "descripcion" : "Descripcion de prueba 10",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "JUNE",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 152,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 6,
+    "dayOfMonth" : 1
+  },
+  "kb" : 656.557953907008
+}

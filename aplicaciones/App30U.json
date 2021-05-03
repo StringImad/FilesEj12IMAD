@@ -1,0 +1,20 @@
+{
+  "codigo" : 30,
+  "nombre" : "App30U",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 11,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 284,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false
+  },
+  "kb" : 420.5586796896746
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 34,
+  "nombre" : "App34M",
+  "descripcion" : "prueba descripcion 2",
+  "fecha" : {
+    "year" : 2015,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 331,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 27
+  },
+  "kb" : 725.0980672652946
+}

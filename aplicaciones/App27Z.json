@@ -1,0 +1,20 @@
+{
+  "codigo" : 27,
+  "nombre" : "App27Z",
+  "descripcion" : "Descripcion de prueba 8",
+  "fecha" : {
+    "year" : 2019,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 13,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 225,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false
+  },
+  "kb" : 476.58111937240733
+}
