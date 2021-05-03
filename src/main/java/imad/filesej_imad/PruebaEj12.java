@@ -17,7 +17,7 @@ import javax.xml.bind.JAXBException;
 public class PruebaEj12 {
     public static void main(String[] args) throws JAXBException{
         
-        
+        //TRY CATCH GENERADO POR eL eNTorno
         try {
             ServicioFicheroXML.leerFicheroXML("./appsxml/ficheroXML.xml");
         } catch (FileNotFoundException ex) {
